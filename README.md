@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋, I'm Jatin Raghav
 
-<!--
-**jatinraghav22/jatinraghav22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Student at ABES Engineering College
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Full Stack Development and Problem Solving
+
+🌱 Currently Learning
+- DSA in C++
+- React.js
+- Node.js
+- MongoDB
+- Cloud Computing
+
+## Skills
+
+### Languages
+- C
+- C++
+- Python
+- JavaScript
+
+### Frontend
+- HTML
+- CSS
+- React
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+## Featured Projects
+
+- AI Resume Analyzer
+- Course Registration System
+- Coding Compiler
+
+## Contact
+
+📧 Email:
+jatinraghavrrrr@gmail.com
