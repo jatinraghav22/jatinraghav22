@@ -1,30 +1,32 @@
+<h1 align="center">Hi 👋, I'm Jatin Raghav</h1>
 
-<div align="center">
+<h3 align="center">
+💻 Full Stack Developer • ☁️ Cloud Computing Enthusiast • 🚀 DSA in C++
+</h3>
 
-# Hi 👋, I'm Jatin Raghav
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&color=36BCF7&lines=Full+Stack+Developer;Cloud+Computing+Learner;AWS+Enthusiast;Problem+Solver;Always+Learning+New+Things!" alt="Typing SVG" />
+</p>
 
-### 🚀 Full Stack Developer | ☁️ Cloud Computing Enthusiast | 💻 DSA in C++
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AWS+Cloud+Learner;Data+Structures+%26+Algorithms;Always+Learning+Something+New!" alt="Typing SVG"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=jatinraghav22&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jatinraghav22&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/jatinraghav22?label=Followers&style=flat&logo=github" />
+<img src="https://img.shields.io/github/stars/jatinraghav22?label=Stars&style=flat&logo=github" />
+</p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🎓 **3rd year B.Tech in Computer Science & Engineering**  
+🎓 3rd Year **B.Tech Computer Science & Engineering** Student
+
 🏫 **ABES Engineering College**
 
-💻 Passionate about building real-world web applications and solving Data Structures & Algorithms.
+💻 Passionate about **Full Stack Development**, **Cloud Computing**, and **Problem Solving**.
 
-☁️ Currently learning **AWS Cloud Computing** and backend development.
+☁️ Currently learning **AWS Cloud Computing** and modern backend development.
 
-🌱 **Currently Exploring**
+🌱 Currently exploring:
 
 - Data Structures & Algorithms (C++)
 - React.js
@@ -33,26 +35,30 @@
 - MongoDB
 - AWS Cloud
 
-🎯 **Goal**
+🎯 **Career Goal**
 
-Become a Software Engineer at a leading product-based company and build scalable software.
+To become a Software Development Engineer (SDE) and build scalable, high-impact applications.
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://github.com/jatinraghav22" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<a href="https://jatinraghav22.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jatin-raghav-a9a060357/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://github.com/jatinraghav22">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jatin-raghav-a9a060357/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:jatinraghavrrrr@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -69,84 +75,112 @@ Become a Software Engineer at a leading product-based company and build scalable
 
 ---
 
-# 📊 GitHub Statistics
+# 🚀 Featured Projects
 
-<div align="center">
+## 🤖 AI Resume Analyzer
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jatinraghav22&show_icons=true&theme=tokyonight&hide_border=true"/>
+An AI-powered Resume Analyzer that helps users evaluate and improve their resumes.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinraghav22&layout=compact&theme=tokyonight&hide_border=true"/>
+**Tech Stack**
 
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jatinraghav22&theme=tokyonight&hide_border=true"/>
-
-</div>
+- React.js
+- Node.js
+- Express.js
+- MongoDB
 
 ---
 
-# 🏆 GitHub Trophies
+## 🌐 Personal Portfolio
 
-<div align="center">
+A modern and responsive portfolio website showcasing my skills, projects, and resume.
 
-<img src="https://github-profile-trophy.vercel.app/?username=jatinraghav22&theme=algolia&margin-w=15&margin-h=15&row=2&column=4"/>
+**Live Demo**
 
-</div>
+🔗 https://jatinraghav22.vercel.app
+
+---
+
+## 📚 Course Registration System
+
+A web application for course registration and management.
+
+---
+
+## 💻 CoCodee
+
+A collaborative coding platform for developers.
+
+---
+
+## ☁️ Cloud Computing
+
+Hands-on experience with AWS services including:
+
+- Amazon EC2
+- Amazon S3
+- IAM
+- Auto Scaling
+- VPC
 
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatinraghav22&theme=tokyo-night"/>
+
 </p>
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 AI Resume Analyzer
-AI-powered Resume Analyzer built using React, Node.js, Express.js and MongoDB.
-
-### 📡 RFID Attendance System
-RFID-based attendance management system.
-
-### 📚 Library Management System
-Desktop application developed using Python.
-
-### 🌦 Weather Application
-Weather forecasting application using APIs.
-
-### ☁️ AWS Cloud Projects
-Hands-on AWS services including EC2, S3, IAM, Auto Scaling, and VPC.
 
 ---
 
 # 📚 Currently Learning
 
-- Advanced DSA
-- React Ecosystem
+- Advanced Data Structures & Algorithms
 - Backend Development
+- React Ecosystem
 - AWS Services
 
 ---
 
-# 🏅 Achievements
+# 🏆 Achievements
 
-- ☁️ AWS Cloud Computing Trainee
-- 💻 Full Stack Development Learner
-- 🚀 Built Multiple Academic & Personal Projects
-- 📚 Consistently improving DSA skills
+🏅 AWS Cloud Computing Trainee
+
+🏅 Full Stack Development Learner
+
+🏅 Built Multiple Academic & Personal Projects
+
+🏅 Continuously Improving Data Structures & Algorithms Skills
 
 ---
 
-# 💡 Quote
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/jatinraghavrrrr/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/jatin_31_13">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Overview
+
+- 💼 Open Source Enthusiast
+- 🌱 Always Learning New Technologies
+- 💡 Passionate About Building Real-World Projects
+- 🚀 Interested in Full Stack Development & Cloud Computing
+
+---
+
+# 💬 Quote
 
 > **"Code. Learn. Build. Repeat."**
 
@@ -154,9 +188,10 @@ Hands-on AWS services including EC2, S3, IAM, Auto Scaling, and VPC.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+### ⭐ Thank you for visiting my profile!
 
-If you like my work, don't forget to ⭐ my repositories.
+If you like my work, consider giving a ⭐ to my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0A192F&height=120&section=footer"/>
 
 </div>
-
