@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 # Hi 👋, I'm Jatin Raghav
@@ -159,4 +159,4 @@ Hands-on AWS services including EC2, S3, IAM, Auto Scaling, and VPC.
 If you like my work, don't forget to ⭐ my repositories.
 
 </div>
-```
+
