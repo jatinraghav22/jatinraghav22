@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jatinraghav22.vercel.app/sitemap.xml
