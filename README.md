@@ -1,98 +1,309 @@
-# Jatin Raghav — Developer Portfolio
+<h1 align="center">Hi 👋, I'm Jatin Raghav</h1>
 
-> **B.Tech Computer Science & Engineering Student | Aspiring Software Developer**  
-> ABES Engineering College, Ghaziabad
+<h3 align="center">
+💻 Full Stack Developer • ☁️ Cloud Computing Enthusiast • 🚀 DSA in C++
+</h3>
 
-A modern, production-grade developer portfolio built with **React 19**, **Vite**, **Three.js / React Three Fiber**, **Tailwind CSS**, **Lenis**, and **GSAP**.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&color=36BCF7&lines=Full+Stack+Developer;Cloud+Computing+Learner;AWS+Enthusiast;Problem+Solver;DSA+with+C%2B%2B;Building+Real-World+Projects;Always+Learning+New+Things!" alt="Typing SVG" />
+</p>
 
----
-
-## 🌟 Key Highlights & Architecture
-
-- **Visual Aesthetics & Theme**: Near-black futuristic styling (`#050505` / `#0B0B0F`), glassmorphism, subtle glowing neon borders (Electric Blue, Violet, Cyan), Space Grotesk headings, and Plus Jakarta Sans typography.
-- **3D Student Developer Workspace**: Interactive WebGL 3D scene using Three.js with glowing particle constellation, central JR monogram emblem, and orbiting developer nodes (`LEARN`, `BUILD`, `SOLVE`, `DEPLOY`), with fallback for non-WebGL environments.
-- **Problem Solving & DSA Visualizer**: Interactive data structure visualizer with switchable views:
-  - Binary Tree traversal
-  - Graph node network & path glow
-  - Two-pointers array traversal
-  - Highlight of **150+ DSA problems solved** on LeetCode and CodeChef.
-- **Featured Projects & Modals**:
-  1. **CarCraft**: Automotive inventory & dealership management suite (React + Django REST + MySQL). Includes showroom UI simulation.
-  2. **CoCode**: Browser-based multiplayer collaborative code editor (React + TypeScript + WebSockets + Judge0/Piston API). Includes live IDE simulation.
-  3. **AI Resume Analyzer**: AI-driven ATS evaluation engine with keyword gap analysis (React 19 + Node.js + Express + Multer + PDF-Parse).
-  4. **Course Registration System**: Real-time student course enrollment platform (React + Firebase + Express + Framer Motion).
-- **Academic & Learning Journey**:
-  - Vertical timeline covering **ABES Engineering College** (CGPA: 7.85) and **Angel Public International School** (81.2%).
-  - Chronological development journey (2024–2026) framed honestly as an active learning path.
-  - Verified certifications from **Apna College**, **Launched Global**, and **Udemy**.
-- **Performance & SEO**:
-  - Code-split vendor chunks (`three-vendor`, `ui-vendor`, lazy-loaded 3D scene).
-  - OpenGraph, Twitter card, custom JR SVG favicon, `robots.txt`.
-  - Accessible contrast, semantic HTML, and `prefers-reduced-motion` compliance.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jatinraghav22&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/jatinraghav22?label=Followers&style=flat&logo=github" />
+<img src="https://img.shields.io/github/stars/jatinraghav22?label=Stars&style=flat&logo=github" />
+</p>
 
 ---
 
-## 🚀 Getting Started Locally
+# 👨‍💻 About Me
 
-### Prerequisites
-- Node.js `v18+` (Tested on `v24.19.0`)
-- npm `v9+`
+🎓 3rd Year **B.Tech Computer Science & Engineering** Student
 
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/jatinraghav22/portfolio.git
-cd portfolio
+🏫 **ABES Engineering College**
 
-# Install dependencies
-npm install
+💻 Passionate about **Full Stack Development**, **Cloud Computing**, and **Problem Solving**.
 
-# Start development server
-npm run dev
-```
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+☁️ Currently learning **AWS Cloud Computing** and modern backend development.
 
----
+🧠 Practicing **Data Structures & Algorithms using C++**.
 
-## 📦 Production Build
+🌱 Currently exploring:
 
-```bash
-# Build optimized static assets
-npm run build
+- Data Structures & Algorithms (C++)
+- React.js
+- Node.js
+- Express.js
+- Django
+- REST APIs
+- MongoDB
+- MySQL
+- AWS Cloud
 
-# Preview production build locally
-npm run preview
-```
+🚀 I enjoy building **real-world applications** and learning new technologies.
+
+🎯 **Career Goal**
+
+To become a Software Development Engineer (SDE) and build scalable, high-impact applications.
 
 ---
 
-## 🌐 Deployment to Vercel
+# 🌐 Connect With Me
 
-### Option 1: Via Vercel CLI
-```bash
-npx vercel
-```
+<p align="center">
 
-### Option 2: Via GitHub & Vercel Dashboard
-1. Push this project to your GitHub repository:
-   ```bash
-   git init
-   git add .
-   git commit -m "feat: initial release of premium developer portfolio"
-   git remote add origin https://github.com/jatinraghav22/portfolio.git
-   git branch -M main
-   git push -u origin main
-   ```
-2. Go to [vercel.com](https://vercel.com), import the repository, and click **Deploy**.
-3. Framework Preset: **Vite**
-4. Build Command: `npm run build`
-5. Output Directory: `dist`
+<a href="https://jatinraghav.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jatinraghav22">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jatin-raghav-a9a060357/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jatinraghavrrrr@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 📬 Contact & Socials
+# 💻 Tech Stack
 
-- **Email**: [jatinraghavrrrr@gmail.com](mailto:jatinraghavrrrr@gmail.com)
-- **GitHub**: [github.com/jatinraghav22](https://github.com/jatinraghav22)
-- **LinkedIn**: [linkedin.com/in/jatin-raghav-a9a060357](https://www.linkedin.com/in/jatin-raghav-a9a060357/)
-- **Live Portfolio**: [jatinraghav22.vercel.app](https://jatinraghav22.vercel.app/)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nodejs,express,django,mongodb,mysql,git,github,vscode,aws"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🚗 CarCraft
+
+**Automotive Inventory & Dealership Management Suite**
+
+A full-stack automotive platform for managing vehicle inventory, dealership operations, parts & accessories, service appointments, sales, customers, and financial analytics.
+
+**Features**
+
+- 🚘 Vehicle Inventory Management
+- 👤 Customer Management
+- 🛒 Parts & Accessories E-Commerce
+- 🔧 Service Appointment Scheduling
+- 💰 Vehicle Sales Management
+- 📦 Order Management
+- 📊 Financial Dashboard
+- 💵 Revenue & Expense Tracking
+- 🔐 Authentication
+- 🛠️ Admin Dashboard
+- 🧊 3D & Animated UI
+
+**Tech Stack**
+
+- React.js
+- Vite
+- React Router
+- Axios
+- Three.js
+- React Three Fiber
+- GSAP
+- Lenis
+- Python
+- Django
+- Django REST Framework
+- SimpleJWT
+- MySQL
+
+**Live Demo**
+
+🔗 https://car-craft.vercel.app/
+
+**GitHub**
+
+🔗 https://github.com/jatinraghav22/CarCraft
+
+---
+
+## 💻 CoCodee
+
+A real-time collaborative coding platform for developers.
+
+**Features**
+
+- Real-Time Collaborative Coding
+- Multi-File Workspace
+- Code Execution
+- Real-Time Chat
+- Collaborative Drawing
+- File Management
+- Version Management
+
+**Tech Stack**
+
+- React
+- TypeScript
+- Vite
+- Node.js
+- Express.js
+- Socket.IO
+
+**Live Demo**
+
+🔗 https://cocode-dyd7.onrender.com/
+
+**GitHub**
+
+🔗 https://github.com/jatinraghav22/CoCodee
+
+---
+
+## 🤖 AI Resume Analyzer
+
+An AI-powered Resume Analyzer that helps users evaluate and improve their resumes.
+
+**Features**
+
+- Resume Analysis
+- ATS Score
+- AI-Powered Feedback
+- Skill Gap Analysis
+- Resume Improvement Suggestions
+
+**Tech Stack**
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Gemini / OpenAI API
+
+---
+
+## 🌐 Personal Portfolio
+
+A modern and responsive portfolio website showcasing my skills, projects, education, experience, and resume.
+
+**Live Demo**
+
+🔗 https://jatinraghav.vercel.app
+
+---
+
+## 📚 Course Registration System
+
+A web application for course registration and management.
+
+**Features**
+
+- Course Management
+- Student Registration
+- Course Selection
+- Registration Management
+
+---
+
+# ☁️ Cloud Computing
+
+Hands-on learning and experience with AWS cloud services including:
+
+- Amazon EC2
+- Amazon S3
+- IAM
+- Auto Scaling
+- CloudWatch
+- VPC
+- AWS Regions
+- Availability Zones
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jatinraghav22&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Data Structures & Algorithms
+- Full Stack Development
+- React Ecosystem
+- Backend Development
+- Django & REST APIs
+- AWS Cloud Services
+- Database Management
+- Cloud Deployment
+
+---
+
+# 🏆 Achievements
+
+🏅 **150+ LeetCode & CodeChef problems combined**
+
+🏅 **Web Development Internship — LaunchED Global**
+
+🏅 **Full Stack Development Certification**
+
+🏅 **Python Certification**
+
+🏅 Built multiple **academic and personal projects**
+
+🏅 Continuously improving **Data Structures & Algorithms**
+
+🏅 Learning and exploring **AWS Cloud Computing**
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/jatinraghavrrrr/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/jatin_31_13">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Overview
+
+- 💼 Full Stack Development Enthusiast
+- ☁️ Cloud Computing Learner
+- 🌱 Always Learning New Technologies
+- 💡 Passionate About Building Real-World Projects
+- 🧠 Problem Solver
+- 🚀 Interested in Full Stack Development & Cloud Computing
+- 💻 Practicing Data Structures & Algorithms
+
+---
+
+# 💬 Quote
+
+> **"Code. Learn. Build. Repeat."**
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0A192F&height=120&section=footer"/>
+
+</div>
