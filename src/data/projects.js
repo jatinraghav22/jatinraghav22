@@ -1,14 +1,161 @@
 export const projects = [
   {
-    id: "carcraft",
+    id: "cocode",
     number: "01",
+    title: "CoCode — Unified Real-Time Collaborative Coding Platform",
+    shortTitle: "CoCode",
+    category: "Full Stack Development | Real-Time Collaboration | Web Application",
+    tagline: "Unified Real-Time Collaborative Coding Platform with Multi-File IDE, Execution, Canvas & Chat",
+    description:
+      "CoCode is a Unified Real-Time Collaborative Coding Platform that brings coding, code execution, communication, visualization, and real-time collaboration together in one workspace. Users can write and execute code, create or join collaborative rooms, edit multiple files in real time, communicate through chat, use a collaborative drawing board, track activity, and manage coding versions.",
+    technologies: [
+      "React",
+      "Vite",
+      "JavaScript / JSX",
+      "CodeMirror",
+      "Tailwind CSS",
+      "Socket.IO Client",
+      "Tldraw",
+      "Node.js",
+      "Express.js",
+      "Socket.IO",
+      "JWT Authentication",
+      "REST API",
+      "Vercel",
+      "Render"
+    ],
+    techCategories: {
+      frontend: ["React", "Vite", "JavaScript / JSX", "CodeMirror", "Tailwind CSS", "Socket.IO Client", "Tldraw"],
+      backend: ["Node.js", "Express.js", "Socket.IO", "JWT Authentication", "REST API"],
+      deployment: ["Vercel", "Render"]
+    },
+    roles: ["Room Host / Creator", "Collaborator / Editor", "Peer Developer"],
+    featureHighlights: [
+      "🔐 User Authentication",
+      "💻 Code Compiler",
+      "👥 Real-Time Coding",
+      "📂 Multi-File Workspace",
+      "▶️ Online Execution",
+      "💬 Real-Time Chat",
+      "🎨 Tldraw Canvas",
+      "👀 User Presence",
+      "🕒 Activity Timeline",
+      "📌 Pinned Notes",
+      "🔄 Version Control",
+      "🏠 Coding Rooms"
+    ],
+    features: [
+      {
+        icon: "🔐",
+        title: "User Authentication",
+        description: "Secure JWT-based user authentication, protected routes, and session management."
+      },
+      {
+        icon: "💻",
+        title: "Personal Code Compiler",
+        description: "Personal browser-based code compiler supporting multiple programming languages with custom input."
+      },
+      {
+        icon: "👥",
+        title: "Real-Time Collaborative Coding",
+        description: "Sub-millisecond code synchronization powered by Socket.IO with multi-cursor live tracking."
+      },
+      {
+        icon: "📂",
+        title: "Multi-File Workspace",
+        description: "Create, rename, delete, and switch across project files seamlessly with multi-tab management."
+      },
+      {
+        icon: "▶️",
+        title: "Online Code Execution",
+        description: "Sandboxed remote code execution engine delivering instant terminal output and runtime error diagnostics."
+      },
+      {
+        icon: "💬",
+        title: "Real-Time Chat",
+        description: "Integrated in-room messaging allowing team members to communicate without switching applications."
+      },
+      {
+        icon: "🎨",
+        title: "Collaborative Drawing Board",
+        description: "Interactive shared whiteboard powered by Tldraw for system design, sketching, and wireframing."
+      },
+      {
+        icon: "👀",
+        title: "User Presence",
+        description: "Real-time active participant tracking with color-coded live indicators and cursor status."
+      },
+      {
+        icon: "🕒",
+        title: "Activity Timeline",
+        description: "Comprehensive chronological logging of room actions, file changes, and compilation events."
+      },
+      {
+        icon: "📌",
+        title: "Pinned Notes",
+        description: "Quick scratchpad and pinned notes directly within the collaborative workspace for requirements."
+      },
+      {
+        icon: "🔄",
+        title: "Version Management",
+        description: "Room snapshots, version history tracking, and rollback capabilities to preserve iterations."
+      },
+      {
+        icon: "🏠",
+        title: "Create & Join Coding Rooms",
+        description: "Instant room generation with unique room IDs, quick invite links, and secure access controls."
+      }
+    ],
+    architecture:
+      "Decoupled full-stack architecture: React + Vite frontend utilizing CodeMirror for syntax editing and Tldraw for visualization, communicating with an Express.js & Socket.IO backend for real-time WebSocket delta broadcasting and JWT authentication, deployed across Vercel and Render.",
+    challenges:
+      "Handling concurrent edits without race conditions, throttling cursor broadcast events to conserve network bandwidth, synchronizing multi-file states across connected peers, and handling sandboxed code execution latency gracefully.",
+    github: "https://github.com/jatinraghav22/CoCode",
+    liveDemo: "https://co-code-ten.vercel.app/",
+    badge: "Featured Platform",
+    accentColor: "#8B5CF6",
+    highlightStats: [
+      { label: "Sync Engine", value: "Socket.IO Real-Time" },
+      { label: "Compiler", value: "Online Execution" },
+      { label: "Deployment", value: "Vercel + Render" }
+    ]
+  },
+  {
+    id: "carcraft",
+    number: "02",
     title: "CarCraft",
     category: "Automotive Inventory & Dealership Suite",
     tagline: "Full-stack automotive enterprise suite with showroom and dealer administration",
     description:
       "CarCraft is a full-stack automotive inventory and dealership management platform combining vehicle inventory management, automotive sales workflows, parts and accessories e-commerce, service appointment scheduling and financial tracking.",
-    technologies: ["React", "JavaScript", "Python", "Django", "Django REST Framework", "MySQL"],
+    technologies: [
+      "React",
+      "JavaScript",
+      "Axios",
+      "Bootstrap",
+      "Python",
+      "Django",
+      "Django REST Framework",
+      "MySQL",
+      "JWT Auth",
+      "REST API",
+      "Vercel",
+      "Render"
+    ],
+    techCategories: {
+      frontend: ["React", "JavaScript", "Axios", "Bootstrap"],
+      backend: ["Python", "Django", "Django REST Framework", "MySQL", "JWT Auth", "REST API"],
+      deployment: ["Vercel", "Render"]
+    },
     roles: ["Customer Interface", "Admin Management Dashboard"],
+    featureHighlights: [
+      "🚗 Vehicle Inventory",
+      "🛒 Parts E-Commerce",
+      "📅 Service Booking",
+      "👤 Customer Management",
+      "💰 Vehicle Sales",
+      "📊 Financial Tracking"
+    ],
     features: [
       "Vehicle inventory management with filterable specifications",
       "Customer management and inquiries pipeline",
@@ -30,45 +177,6 @@ export const projects = [
       { label: "Architecture", value: "Django + React" },
       { label: "Database", value: "MySQL Schemas" },
       { label: "Portals", value: "Customer & Admin" }
-    ]
-  },
-  {
-    id: "cocode",
-    number: "02",
-    title: "CoCode",
-    category: "Real-Time Collaborative Code Editor",
-    tagline: "Browser-based multiplayer IDE with live cursor sync and code execution",
-    description:
-      "CoCode is a browser-based collaborative code editor designed for real-time multi-user coding and communication with synchronized cursor state and instant compilation.",
-    technologies: [
-      "React",
-      "TypeScript",
-      "Tailwind CSS",
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-      "Socket.IO",
-      "Judge0 / Piston API"
-    ],
-    roles: ["Collaborative Room Members", "Room Host"],
-    features: [
-      "Engineered real-time collaborative code editor using React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, and Socket.IO",
-      "Live code synchronization, user presence, integrated chat, version history, reducing collaboration latency by 40% and boosting pair-programming efficiency by 35%",
-      "Integrated Judge0 / Piston API supporting secure remote execution of 50+ programming languages",
-      "Multi-file project workspace management with responsive dark IDE UI and integrated terminal output"
-    ],
-    architecture:
-      "Event-driven bidirectional WebSocket pipeline via Socket.IO, broadcast room topologies, decoupled compiler worker communicating with execution sandbox APIs, and MongoDB for room/snapshot persistence.",
-    challenges:
-      "Handling concurrent edits without race conditions, throttling cursor broadcast events to conserve network bandwidth, and handling sandboxed code execution latency gracefully.",
-    github: "https://github.com/jatinraghav22/CoCodee",
-    liveDemo: "https://cocode-dyd7.onrender.com/",
-    badge: "Real-Time Systems",
-    accentColor: "#8B5CF6",
-    highlightStats: [
-      { label: "Sync Engine", value: "Socket.IO" },
-      { label: "Languages", value: "50+ Supported" },
-      { label: "Efficiency", value: "+35% Pair Coding" }
     ]
   },
   {

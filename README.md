@@ -130,36 +130,47 @@ A full-stack automotive platform for managing vehicle inventory, dealership oper
 
 ---
 
-## 💻 CoCodee
+## 💻 CoCode — Unified Real-Time Collaborative Coding Platform
 
-A real-time collaborative coding platform for developers.
+A Unified Real-Time Collaborative Coding Platform that brings coding, code execution, communication, visualization, and real-time collaboration together in one workspace.
 
 **Features**
 
-- Real-Time Collaborative Coding
-- Multi-File Workspace
-- Code Execution
-- Real-Time Chat
-- Collaborative Drawing
-- File Management
-- Version Management
+- 🔐 User Authentication
+- 💻 Personal Code Compiler
+- 👥 Real-Time Collaborative Coding
+- 📂 Multi-File Workspace
+- ▶️ Online Code Execution
+- 💬 Real-Time Chat
+- 🎨 Collaborative Drawing Board
+- 👀 User Presence
+- 🕒 Activity Timeline
+- 📌 Pinned Notes
+- 🔄 Version Management
+- 🏠 Create & Join Coding Rooms
 
 **Tech Stack**
 
 - React
-- TypeScript
 - Vite
+- JavaScript / JSX
+- CodeMirror
+- Tailwind CSS
+- Socket.IO Client
+- Tldraw
 - Node.js
 - Express.js
 - Socket.IO
+- JWT Authentication
+- REST API
 
 **Live Demo**
 
-🔗 https://cocode-dyd7.onrender.com/
+🔗 https://co-code-ten.vercel.app/
 
 **GitHub**
 
-🔗 https://github.com/jatinraghav22/CoCodee
+🔗 https://github.com/jatinraghav22/CoCode
 
 ---
 

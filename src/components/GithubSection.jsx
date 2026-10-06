@@ -11,10 +11,10 @@ export function GithubSection() {
       link: "https://github.com/jatinraghav22/CarCraft"
     },
     {
-      name: "CoCodee",
-      desc: "Browser-based collaborative code editor with real-time WebSockets & execution.",
-      lang: "TypeScript / Node",
-      link: "https://github.com/jatinraghav22/CoCodee"
+      name: "CoCode",
+      desc: "Unified Real-Time Collaborative Coding Platform with multi-file workspace, compiler, Tldraw whiteboard & chat.",
+      lang: "React / Node / Socket.IO",
+      link: "https://github.com/jatinraghav22/CoCode"
     }
   ];
 
